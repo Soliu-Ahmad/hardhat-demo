@@ -1,4 +1,4 @@
-// SPDK-Licence-identifier: SEE LICENCE IN LICENCE
+// SPDK-Licence-identifier: SEE LICENCE IN LICENCE;
 pragma solidity ^0.8.27;
 
 contract Message{
